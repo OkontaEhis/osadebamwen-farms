@@ -200,7 +200,9 @@ body {
   padding: 1rem 1.5rem;
   transition: all 0.3s ease;
 }
-
+.discover-btn {
+  margin-bottom: 2rem; /* Adjust as needed */
+}
 .btn-primary:hover {
   background: var(--dark-green);
   transform: translateY(-2px);
