@@ -201,7 +201,7 @@ body {
   transition: all 0.3s ease;
 }
 .discover-btn {
-  margin-bottom: 2rem; /* Adjust as needed */
+  margin-bottom: 5rem; /* Adjust as needed */
 }
 .btn-primary:hover {
   background: var(--dark-green);
